@@ -16,6 +16,6 @@ MSc Computer Science & AI Graduate at Leiden University, building practical AI s
 
 Python · PyTorch · TensorFlow · Scikit-learn · Streamlit · SQL · RL · NLP · GenAI · Data Engineering · Quantum Computing
 
-## What I’m building toward
+## What I'm Building Towards
 
-AI engineering roles where research-grade thinking becomes working systems.
+Engineering intelligent systems at the intersection of AI, Machine Learning, Data Engineering, Reinforcement Learning, Optimization, and Applied Research—transforming research into scalable, production-ready solutions that create measurable real-world impact.
