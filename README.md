@@ -6,7 +6,7 @@ I work across machine learning, reinforcement learning, multi-objective optimisa
 
 Based in Leiden, Netherlands. Open to AI/ML Engineering, Applied AI Research, Data & AI Engineering, and graduate opportunities.
 
-LinkedIn: [![Linkedin] (https://shields.io)] (https://linkedin.com)
+LinkedIn: https://linkedin.com/in/neeilnandal
 
 ## Featured Projects
 
