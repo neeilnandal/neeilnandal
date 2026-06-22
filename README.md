@@ -1,4 +1,4 @@
-# Hi, I’m Neeil
+# Hi, I’m Neeil Nandal
 
 MSc Computer Science & AI Graduate at Leiden University, building practical AI systems across machine learning, reinforcement learning, optimisation, NLP, GenAI and data engineering.
 
