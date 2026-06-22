@@ -2,6 +2,12 @@
 
 MSc Computer Science & AI Graduate at Leiden University, building practical AI systems across machine learning, reinforcement learning, optimisation, NLP, GenAI and data engineering.
 
+I work across machine learning, reinforcement learning, multi-objective optimisation, LLM evaluation, and data engineering. My focus is practical: building reproducible systems that can be measured, stress-tested, and improved rather than prototypes that merely look clever in a notebook.
+
+Based in Leiden, Netherlands. Open to AI/ML Engineering, Applied AI Research, Data & AI Engineering, and graduate opportunities.
+
+LinkedIn: linkedin.com/in/neeilnandal
+
 ## Featured Projects
 
 | Project | What it shows |
