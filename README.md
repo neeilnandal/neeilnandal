@@ -1,6 +1,6 @@
 # Hi, I’m Neeil Nandal
 
-MSc Computer Science & AI Graduate at Leiden University, building practical AI systems across machine learning, reinforcement learning, optimisation, NLP, GenAI and data engineering.
+MSc Computer Science & AI student at Leiden University, graduating in 2026. Building practical AI systems across machine learning, reinforcement learning, optimisation, NLP, GenAI and data engineering.
 
 I work across machine learning, reinforcement learning, multi-objective optimisation, LLM evaluation, and data engineering. My focus is practical: building reproducible systems that can be measured, stress-tested, and improved rather than prototypes that merely look clever in a notebook.
 
