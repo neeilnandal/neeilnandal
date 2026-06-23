@@ -21,10 +21,15 @@ LinkedIn: https://linkedin.com/in/neeilnandal
 ## Core Stack
 
 Languages: Python, SQL, C++, Java
+
 Machine Learning: PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, LightGBM
+
 AI & Research: Reinforcement Learning, NLP, LLMs, RAG, Optimisation, Explainable AI, Secure ML
+
 Data & Engineering: Pandas, NumPy, PySpark, Spark, Kafka, ETL/ELT, REST APIs, Docker
+
 Cloud & Tools: AWS, Azure, GCP, Git, GitHub Actions, Streamlit, Flask
+
 Quantum: Qiskit, Cirq, Quantum Algorithms
 
 ## What I'm Building Towards
