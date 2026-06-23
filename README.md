@@ -32,6 +32,10 @@ Cloud & Tools: AWS, Azure, GCP, Git, GitHub Actions, Streamlit, Flask
 
 Quantum: Qiskit, Cirq, Quantum Algorithms
 
-## What I'm Building Towards
+## Currently Building
 
-Engineering intelligent systems at the intersection of AI, Machine Learning, Data Engineering, Reinforcement Learning, Optimization, and Applied Research—transforming research into scalable, production-ready solutions that create measurable real-world impact.
+## Currently Building
+
+- Evaluation workflows for LLM and RAG systems, including structured error taxonomies, human review, and reproducible benchmarks.
+- Production-minded AI applications with validation, testing, observability, and deployment-ready architecture.
+- Applied research projects in reinforcement learning, multi-objective optimisation, secure AI, and quantum computing.
