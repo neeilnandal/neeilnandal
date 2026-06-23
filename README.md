@@ -34,8 +34,6 @@ Quantum: Qiskit, Cirq, Quantum Algorithms
 
 ## Currently Building
 
-## Currently Building
-
 - Evaluation workflows for LLM and RAG systems, including structured error taxonomies, human review, and reproducible benchmarks.
 - Production-minded AI applications with validation, testing, observability, and deployment-ready architecture.
 - Applied research projects in reinforcement learning, multi-objective optimisation, secure AI, and quantum computing.
