@@ -28,14 +28,6 @@ An NSGA-II container-loading optimiser that balances unloading order, vessel sta
 
 `Python` `NSGA-II` `Optimisation` `Analytics` `Logistics`
 
-### [Human-in-the-Loop Q&A Evaluator](https://github.com/neeilnandal/human-in-the-loop-qa-evaluator)
-
-**LLM evaluation · Quality assurance · Streamlit**
-
-A Streamlit evaluation workbench for reviewing Q&A model outputs with editable annotations, issue categories, filtering, and quality metrics. Designed to make model-evaluation feedback structured, inspectable, and useful for iteration.
-
-`Python` `Streamlit` `LLM Evaluation` `Data Quality` `Human Feedback`
-
 ### [Mitra AI FAQ Chatbot](https://github.com/neeilnandal/Mitra-AI-FAQ-Chatbot-Conversational-AI-Botpress-customer-support-automation)
 
 **Applied AI · Conversational systems · Customer support automation**
