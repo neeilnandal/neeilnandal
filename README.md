@@ -36,6 +36,15 @@ A Streamlit evaluation workbench for reviewing Q&A model outputs with editable a
 
 `Python` `Streamlit` `LLM Evaluation` `Data Quality` `Human Feedback`
 
+### [Mitra AI FAQ Chatbot](https://github.com/neeilnandal/Mitra-AI-FAQ-Chatbot-Conversational-AI-Botpress-customer-support-automation)
+
+**Applied AI · Conversational systems · Customer support automation**
+
+A Botpress-powered AI FAQ chatbot embedded into a customer-facing website to automate Tier-1 support queries and improve self-service. Built with a structured project architecture covering application logic, tests, documentation, deployment, security, and supporting data.
+
+`JavaScript` `Botpress` `Conversational AI` `Customer Support` `Deployment`
+
+
 ---
 
 ## Core Stack
@@ -48,6 +57,7 @@ A Streamlit evaluation workbench for reviewing Q&A model outputs with editable a
 **Quantum:** Qiskit, Cirq, Quantum Algorithms
 
 ---
+
 
 ## Currently Building
 
