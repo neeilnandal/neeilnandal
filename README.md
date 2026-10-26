@@ -7,7 +7,8 @@ I work across machine learning, reinforcement learning, multi-objective optimisa
 Based in Leiden, Netherlands. Open to AI/ML Engineering, Applied AI Research, Data & AI Engineering, and graduate opportunities.
 
 [LinkedIn](https://www.linkedin.com/in/neeilnandal/) · 
-[CV]("C:\Users\NEEIL\OneDrive\Desktop\NEEILCV_UPDATE_OCT2026\Neeil.Nandal_CV_AI_ML_DataScience_Oct2026.pdf") · [GitHub](https://github.com/neeilnandal)
+[CV]("C:\Users\NEEIL\OneDrive\Desktop\NEEILCV_UPDATE_OCT2026\Neeil.Nandal_CV_AI_ML_DataScience_Oct2026.pdf") · 
+[GitHub](https://github.com/neeilnandal)
 
 ---
 
