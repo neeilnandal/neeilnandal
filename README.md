@@ -14,7 +14,7 @@ Based in Leiden, Netherlands. Open to AI/ML Engineering, Applied AI Research, Da
 
 ### [Cargo-Data-Intake-Lab](https://github.com/neeilnandal/cargo-data-intake-lab)
 
-
+Python data-engineering demonstrator for multi-client cargo ingestion, schema mapping, data validation and exception reporting. Verified with 10 automated tests.
 
 ### [Hybrid Pac-Man MCTS Agent](https://github.com/neeilnandal/Pac-Man-MCTS-Agent-Multi-agent-systems-planning-search-v2)
 
