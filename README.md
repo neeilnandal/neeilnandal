@@ -12,6 +12,10 @@ Based in Leiden, Netherlands. Open to AI/ML Engineering, Applied AI Research, Da
 
 ## Featured Projects
 
+###[cargo-data-intake-lab](https://github.com/neeilnandal/cargo-data-intake-lab)
+
+
+
 ### [Hybrid Pac-Man MCTS Agent](https://github.com/neeilnandal/Pac-Man-MCTS-Agent-Multi-agent-systems-planning-search-v2)
 
 **Multi-agent systems · Planning · Reinforcement learning**
