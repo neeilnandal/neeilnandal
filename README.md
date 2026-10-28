@@ -12,7 +12,7 @@ Based in Leiden, Netherlands. Open to AI/ML Engineering, Applied AI Research, Da
 
 ## Featured Projects
 
-###[Cargo-Data-Intake-Lab](https://github.com/neeilnandal/cargo-data-intake-lab)
+### [Cargo-Data-Intake-Lab](https://github.com/neeilnandal/cargo-data-intake-lab)
 
 
 
