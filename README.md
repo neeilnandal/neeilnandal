@@ -1,6 +1,6 @@
 # Hi, I’m Neeil Nandal
 
-**MSc Computer Science & AI graduate at Leiden University, building decision-grade AI systems where rigorous research meets reliable software.**
+**MSc Computer Science & AI Graduate at Leiden University, building decision-grade AI systems where rigorous research meets reliable software.**
 
 I work across machine learning, reinforcement learning, multi-objective optimisation, LLM evaluation, and data engineering. My focus is practical: building reproducible systems that can be measured, stress-tested, and improved rather than prototypes that merely look clever in a notebook.
 
